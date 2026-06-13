@@ -1,4 +1,4 @@
 # PracticeRepo
-My first repository for learning Git and Github.
+My first repository for Git and Github.
 <br>
 -Author: maheshnakate009.
